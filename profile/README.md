@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome to Hesperia Roleplay's Github 👋
+
+This github organisation is the source control center for the servers development team for Hesperia Roleplay. all repositorys are private unless you are within the Development Team
+You can check our social media links above for more information
 
 <!--
 
