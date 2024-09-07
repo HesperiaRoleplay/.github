@@ -1,7 +1,6 @@
 ## Welcome to Hesperia Roleplay's Github 👋
 
-This github organisation is the source control center for the servers development team for Hesperia Roleplay. all repositorys are private unless you are within the Development Team
-You can check our social media links above for more information
+This roleplay community should be avoided at all costs, the Owner Ty Manning, quit for not getting his own way, then when his brother reapproached him, booted certain staff members after hours of work with no communication at all.
 
 <!--
 
